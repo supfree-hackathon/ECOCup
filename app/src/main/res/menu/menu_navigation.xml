@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id = "@+id/friends"
+            android:title="Friends"
+            android:icon="@drawable/ic_people"/>
+        <item
+            android:id = "@+id/home"
+            android:title="Home"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:id = "@+id/stores"
+            android:title="Stores"
+            android:icon="@drawable/ic_store"/>
+
+</menu>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ecocup Firebase</string>
+    <string name="search_friend_username">Search Friend Username</string>
+    <string name="search_username">Search Username</string>
+    <string name="textview">TextView</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="nearby_stores">Nearby Stores</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="suggest_a_store">Suggest a store</string>
+    <string name="how_is_your_day">How is your day?</string>
+    <string name="welcome">Welcome</string>
+    <string name="scan_now">Scan now</string>
+    <string name="logout">Logout</string>
+    <string name="contributions">Contributions</string>
+    <string name="mass">Mass of \nnatural habitat:</string>
+    <string name="trees">Trees:</string>
+    <string name="water_kg">Water(kg):</string>
+    <string name="gift_drink">Gift drink</string>
+    <string name="co2_kg">CO2(kg):</string>
+    <string name="friendslist">Friendslist</string>
+</resources>
